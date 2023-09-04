@@ -1,0 +1,77 @@
+html {
+    margin: auto;
+    padding: 20px 40px;
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: yellowgreen;
+}
+
+body h1 {
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+  }
+
+  
+
+body h2 {
+    display: flex;
+    justify-content: center;
+}
+
+  h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: rgb(237, 5, 245);
+    display: flex;
+    align-items: right;
+    justify-content: right;
+  }
+
+  .Scores {
+    font-size: larger;
+    font-weight: 200;
+
+
+
+  }
+
+  .ansbt {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: rgb(235, 0, 216);
+    display: flex;
+    margin: auto 0;
+  }
+  .quiz-controls {
+    display: contents;
+
+  }
+  .begin-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-weight: 200;
+  }
+
+  .next-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-weight: 200;
+}
+
+  .quiz-questions {
+    display: flexbox;
+    font-family: sans-serif;
+  }
+
+  
+
+   
+
+  
